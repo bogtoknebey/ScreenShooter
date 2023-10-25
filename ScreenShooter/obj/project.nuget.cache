@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "8FFLoRAaVDXKnh8LDiCe2EziwEMCyFMl4Wj0BcZNSz8qXVoeYYqkkQFtZItAOD0owrc4uKZUtUdPRCB7Gp1qZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\ScreenShooter\\ScreenShooter\\ScreenShooter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\US999\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512",
+    "C:\\Users\\US999\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\US999\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"InputSimulator 1.0.4\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "InputSimulator",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
